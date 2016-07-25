@@ -1,2 +1,3 @@
 # hello-world
 You gotta start somewhere...
+This old dog is looking to learn some new tricks.  
